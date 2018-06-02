@@ -1,0 +1,806 @@
+character1,character2,lyric,song,act
+MULLIGAN,MADISON,We fought with him,Alexander Hamilton,1
+MULLIGAN,LAFAYETTE,We fought with him,Alexander Hamilton,1
+MULLIGAN,JEFFERSON,We fought with him,Alexander Hamilton,1
+MADISON,LAFAYETTE,We fought with him,Alexander Hamilton,1
+MADISON,JEFFERSON,We fought with him,Alexander Hamilton,1
+LAFAYETTE,JEFFERSON,We fought with him,Alexander Hamilton,1
+LAURENS,PHILIP,Me? I died for him,Alexander Hamilton,1
+ELIZA,ANGELICA,Me? I loved him,Alexander Hamilton,1
+ELIZA,PEGGY,Me? I loved him,Alexander Hamilton,1
+ELIZA,MARIA,Me? I loved him,Alexander Hamilton,1
+ANGELICA,PEGGY,Me? I loved him,Alexander Hamilton,1
+ANGELICA,MARIA,Me? I loved him,Alexander Hamilton,1
+PEGGY,MARIA,Me? I loved him,Alexander Hamilton,1
+LAURENS,LAFAYETTE,Show time!,"Aaron Burr, Sir",1
+LAURENS,MULLIGAN,Show time!,"Aaron Burr, Sir",1
+LAFAYETTE,MULLIGAN,Show time!,"Aaron Burr, Sir",1
+LAFAYETTE,LAURENS,Ayyyyy,"Aaron Burr, Sir",1
+LAURENS,LAFAYETTE,To the revolution!,"Aaron Burr, Sir",1
+LAURENS,MULLIGAN,To the revolution!,"Aaron Burr, Sir",1
+LAFAYETTE,MULLIGAN,To the revolution!,"Aaron Burr, Sir",1
+LAFAYETTE,MULLIGAN,Boooo!,"Aaron Burr, Sir",1
+MULLIGAN,LAFAYETTE,"Ooh, who is this kid? What's he gonna do?","Aaron Burr, Sir",1
+MULLIGAN,LAURENS,"Ooh, who is this kid? What's he gonna do?","Aaron Burr, Sir",1
+LAFAYETTE,LAURENS,"Ooh, who is this kid? What's he gonna do?","Aaron Burr, Sir",1
+HAMILTON,LAFAYETTE,A-L-E-X-A-N-D,My Shot,1
+HAMILTON,MULLIGAN,A-L-E-X-A-N-D,My Shot,1
+HAMILTON,LAURENS,A-L-E-X-A-N-D,My Shot,1
+LAFAYETTE,MULLIGAN,A-L-E-X-A-N-D,My Shot,1
+LAFAYETTE,LAURENS,A-L-E-X-A-N-D,My Shot,1
+MULLIGAN,LAURENS,A-L-E-X-A-N-D,My Shot,1
+HAMILTON,LAFAYETTE,E-R-we are-meant to be...,My Shot,1
+HAMILTON,MULLIGAN,E-R-we are-meant to be...,My Shot,1
+HAMILTON,LAURENS,E-R-we are-meant to be...,My Shot,1
+LAFAYETTE,MULLIGAN,E-R-we are-meant to be...,My Shot,1
+LAFAYETTE,LAURENS,E-R-we are-meant to be...,My Shot,1
+MULLIGAN,LAURENS,E-R-we are-meant to be...,My Shot,1
+LAFAYETTE,MULLIGAN,(He says in parentheses),My Shot,1
+LAFAYETTE,LAURENS,(He says in parentheses),My Shot,1
+MULLIGAN,LAURENS,(He says in parentheses),My Shot,1
+HAMILTON,MULLIGAN,I am not throwing away my shot,My Shot,1
+HAMILTON,LAURENS,I am not throwing away my shot,My Shot,1
+HAMILTON,LAFAYETTE,I am not throwing away my shot,My Shot,1
+MULLIGAN,LAURENS,I am not throwing away my shot,My Shot,1
+MULLIGAN,LAFAYETTE,I am not throwing away my shot,My Shot,1
+LAURENS,LAFAYETTE,I am not throwing away my shot,My Shot,1
+HAMILTON,MULLIGAN,I am not throwing away my shot,My Shot,1
+HAMILTON,LAURENS,I am not throwing away my shot,My Shot,1
+HAMILTON,LAFAYETTE,I am not throwing away my shot,My Shot,1
+MULLIGAN,LAURENS,I am not throwing away my shot,My Shot,1
+MULLIGAN,LAFAYETTE,I am not throwing away my shot,My Shot,1
+LAURENS,LAFAYETTE,I am not throwing away my shot,My Shot,1
+HAMILTON,MULLIGAN,"Hey yo, I'm just like my country",My Shot,1
+HAMILTON,LAURENS,"Hey yo, I'm just like my country",My Shot,1
+HAMILTON,LAFAYETTE,"Hey yo, I'm just like my country",My Shot,1
+MULLIGAN,LAURENS,"Hey yo, I'm just like my country",My Shot,1
+MULLIGAN,LAFAYETTE,"Hey yo, I'm just like my country",My Shot,1
+LAURENS,LAFAYETTE,"Hey yo, I'm just like my country",My Shot,1
+HAMILTON,MULLIGAN,"I'm young, scrappy and hungry",My Shot,1
+HAMILTON,LAURENS,"I'm young, scrappy and hungry",My Shot,1
+HAMILTON,LAFAYETTE,"I'm young, scrappy and hungry",My Shot,1
+MULLIGAN,LAURENS,"I'm young, scrappy and hungry",My Shot,1
+MULLIGAN,LAFAYETTE,"I'm young, scrappy and hungry",My Shot,1
+LAURENS,LAFAYETTE,"I'm young, scrappy and hungry",My Shot,1
+HAMILTON,MULLIGAN,And I'm not throwing away my shot,My Shot,1
+HAMILTON,LAURENS,And I'm not throwing away my shot,My Shot,1
+HAMILTON,LAFAYETTE,And I'm not throwing away my shot,My Shot,1
+MULLIGAN,LAURENS,And I'm not throwing away my shot,My Shot,1
+MULLIGAN,LAFAYETTE,And I'm not throwing away my shot,My Shot,1
+LAURENS,LAFAYETTE,And I'm not throwing away my shot,My Shot,1
+HAMILTON,MULLIGAN,It's time to take a shot!,My Shot,1
+HAMILTON,LAURENS,It's time to take a shot!,My Shot,1
+HAMILTON,LAFAYETTE,It's time to take a shot!,My Shot,1
+MULLIGAN,LAURENS,It's time to take a shot!,My Shot,1
+MULLIGAN,LAFAYETTE,It's time to take a shot!,My Shot,1
+LAURENS,LAFAYETTE,It's time to take a shot!,My Shot,1
+HAMILTON,LAURENS,Shot!,My Shot,1
+HAMILTON,LAFAYETTE,Shot!,My Shot,1
+HAMILTON,MULLIGAN,Shot!,My Shot,1
+LAURENS,LAFAYETTE,Shot!,My Shot,1
+LAURENS,MULLIGAN,Shot!,My Shot,1
+LAFAYETTE,MULLIGAN,Shot!,My Shot,1
+HAMILTON,LAURENS,Shot!,My Shot,1
+HAMILTON,LAFAYETTE,Shot!,My Shot,1
+HAMILTON,MULLIGAN,Shot!,My Shot,1
+LAURENS,LAFAYETTE,Shot!,My Shot,1
+LAURENS,MULLIGAN,Shot!,My Shot,1
+LAFAYETTE,MULLIGAN,Shot!,My Shot,1
+HAMILTON,LAURENS,Shot!,My Shot,1
+HAMILTON,LAFAYETTE,Shot!,My Shot,1
+HAMILTON,MULLIGAN,Shot!,My Shot,1
+LAURENS,LAFAYETTE,Shot!,My Shot,1
+LAURENS,MULLIGAN,Shot!,My Shot,1
+LAFAYETTE,MULLIGAN,Shot!,My Shot,1
+HAMILTON,LAURENS,I am not throwing away my shot,My Shot,1
+HAMILTON,LAFAYETTE,I am not throwing away my shot,My Shot,1
+HAMILTON,MULLIGAN,I am not throwing away my shot,My Shot,1
+HAMILTON,ENSEMBLE,I am not throwing away my shot,My Shot,1
+LAURENS,LAFAYETTE,I am not throwing away my shot,My Shot,1
+LAURENS,MULLIGAN,I am not throwing away my shot,My Shot,1
+LAURENS,ENSEMBLE,I am not throwing away my shot,My Shot,1
+LAFAYETTE,MULLIGAN,I am not throwing away my shot,My Shot,1
+LAFAYETTE,ENSEMBLE,I am not throwing away my shot,My Shot,1
+MULLIGAN,ENSEMBLE,I am not throwing away my shot,My Shot,1
+HAMILTON,LAURENS,I am not throwing away my shot,My Shot,1
+HAMILTON,LAFAYETTE,I am not throwing away my shot,My Shot,1
+HAMILTON,MULLIGAN,I am not throwing away my shot,My Shot,1
+HAMILTON,ENSEMBLE,I am not throwing away my shot,My Shot,1
+LAURENS,LAFAYETTE,I am not throwing away my shot,My Shot,1
+LAURENS,MULLIGAN,I am not throwing away my shot,My Shot,1
+LAURENS,ENSEMBLE,I am not throwing away my shot,My Shot,1
+LAFAYETTE,MULLIGAN,I am not throwing away my shot,My Shot,1
+LAFAYETTE,ENSEMBLE,I am not throwing away my shot,My Shot,1
+MULLIGAN,ENSEMBLE,I am not throwing away my shot,My Shot,1
+HAMILTON,LAURENS,"Hey yo, I'm just like my country",My Shot,1
+HAMILTON,LAFAYETTE,"Hey yo, I'm just like my country",My Shot,1
+HAMILTON,MULLIGAN,"Hey yo, I'm just like my country",My Shot,1
+HAMILTON,ENSEMBLE,"Hey yo, I'm just like my country",My Shot,1
+LAURENS,LAFAYETTE,"Hey yo, I'm just like my country",My Shot,1
+LAURENS,MULLIGAN,"Hey yo, I'm just like my country",My Shot,1
+LAURENS,ENSEMBLE,"Hey yo, I'm just like my country",My Shot,1
+LAFAYETTE,MULLIGAN,"Hey yo, I'm just like my country",My Shot,1
+LAFAYETTE,ENSEMBLE,"Hey yo, I'm just like my country",My Shot,1
+MULLIGAN,ENSEMBLE,"Hey yo, I'm just like my country",My Shot,1
+HAMILTON,LAURENS,"I'm young, scrappy and hungry",My Shot,1
+HAMILTON,LAFAYETTE,"I'm young, scrappy and hungry",My Shot,1
+HAMILTON,MULLIGAN,"I'm young, scrappy and hungry",My Shot,1
+HAMILTON,ENSEMBLE,"I'm young, scrappy and hungry",My Shot,1
+LAURENS,LAFAYETTE,"I'm young, scrappy and hungry",My Shot,1
+LAURENS,MULLIGAN,"I'm young, scrappy and hungry",My Shot,1
+LAURENS,ENSEMBLE,"I'm young, scrappy and hungry",My Shot,1
+LAFAYETTE,MULLIGAN,"I'm young, scrappy and hungry",My Shot,1
+LAFAYETTE,ENSEMBLE,"I'm young, scrappy and hungry",My Shot,1
+MULLIGAN,ENSEMBLE,"I'm young, scrappy and hungry",My Shot,1
+HAMILTON,LAURENS,And I'm not throwing away my shot,My Shot,1
+HAMILTON,LAFAYETTE,And I'm not throwing away my shot,My Shot,1
+HAMILTON,MULLIGAN,And I'm not throwing away my shot,My Shot,1
+HAMILTON,ENSEMBLE,And I'm not throwing away my shot,My Shot,1
+LAURENS,LAFAYETTE,And I'm not throwing away my shot,My Shot,1
+LAURENS,MULLIGAN,And I'm not throwing away my shot,My Shot,1
+LAURENS,ENSEMBLE,And I'm not throwing away my shot,My Shot,1
+LAFAYETTE,MULLIGAN,And I'm not throwing away my shot,My Shot,1
+LAFAYETTE,ENSEMBLE,And I'm not throwing away my shot,My Shot,1
+MULLIGAN,ENSEMBLE,And I'm not throwing away my shot,My Shot,1
+HAMILTON,LAURENS,I am not throwing away my shot,My Shot,1
+HAMILTON,LAFAYETTE,I am not throwing away my shot,My Shot,1
+HAMILTON,MULLIGAN,I am not throwing away my shot,My Shot,1
+HAMILTON,ENSEMBLE,I am not throwing away my shot,My Shot,1
+LAURENS,LAFAYETTE,I am not throwing away my shot,My Shot,1
+LAURENS,MULLIGAN,I am not throwing away my shot,My Shot,1
+LAURENS,ENSEMBLE,I am not throwing away my shot,My Shot,1
+LAFAYETTE,MULLIGAN,I am not throwing away my shot,My Shot,1
+LAFAYETTE,ENSEMBLE,I am not throwing away my shot,My Shot,1
+MULLIGAN,ENSEMBLE,I am not throwing away my shot,My Shot,1
+HAMILTON,LAURENS,I am not throwing away my shot,My Shot,1
+HAMILTON,LAFAYETTE,I am not throwing away my shot,My Shot,1
+HAMILTON,MULLIGAN,I am not throwing away my shot,My Shot,1
+HAMILTON,ENSEMBLE,I am not throwing away my shot,My Shot,1
+LAURENS,LAFAYETTE,I am not throwing away my shot,My Shot,1
+LAURENS,MULLIGAN,I am not throwing away my shot,My Shot,1
+LAURENS,ENSEMBLE,I am not throwing away my shot,My Shot,1
+LAFAYETTE,MULLIGAN,I am not throwing away my shot,My Shot,1
+LAFAYETTE,ENSEMBLE,I am not throwing away my shot,My Shot,1
+MULLIGAN,ENSEMBLE,I am not throwing away my shot,My Shot,1
+HAMILTON,LAURENS,"Hey yo, I'm just like my country",My Shot,1
+HAMILTON,LAFAYETTE,"Hey yo, I'm just like my country",My Shot,1
+HAMILTON,MULLIGAN,"Hey yo, I'm just like my country",My Shot,1
+HAMILTON,ENSEMBLE,"Hey yo, I'm just like my country",My Shot,1
+LAURENS,LAFAYETTE,"Hey yo, I'm just like my country",My Shot,1
+LAURENS,MULLIGAN,"Hey yo, I'm just like my country",My Shot,1
+LAURENS,ENSEMBLE,"Hey yo, I'm just like my country",My Shot,1
+LAFAYETTE,MULLIGAN,"Hey yo, I'm just like my country",My Shot,1
+LAFAYETTE,ENSEMBLE,"Hey yo, I'm just like my country",My Shot,1
+MULLIGAN,ENSEMBLE,"Hey yo, I'm just like my country",My Shot,1
+HAMILTON,LAURENS,"I'm young, scrappy and hungry",My Shot,1
+HAMILTON,LAFAYETTE,"I'm young, scrappy and hungry",My Shot,1
+HAMILTON,MULLIGAN,"I'm young, scrappy and hungry",My Shot,1
+HAMILTON,ENSEMBLE,"I'm young, scrappy and hungry",My Shot,1
+LAURENS,LAFAYETTE,"I'm young, scrappy and hungry",My Shot,1
+LAURENS,MULLIGAN,"I'm young, scrappy and hungry",My Shot,1
+LAURENS,ENSEMBLE,"I'm young, scrappy and hungry",My Shot,1
+LAFAYETTE,MULLIGAN,"I'm young, scrappy and hungry",My Shot,1
+LAFAYETTE,ENSEMBLE,"I'm young, scrappy and hungry",My Shot,1
+MULLIGAN,ENSEMBLE,"I'm young, scrappy and hungry",My Shot,1
+HAMILTON,LAURENS,And I'm not throwing away my shot,My Shot,1
+HAMILTON,LAFAYETTE,And I'm not throwing away my shot,My Shot,1
+HAMILTON,MULLIGAN,And I'm not throwing away my shot,My Shot,1
+HAMILTON,ENSEMBLE,And I'm not throwing away my shot,My Shot,1
+LAURENS,LAFAYETTE,And I'm not throwing away my shot,My Shot,1
+LAURENS,MULLIGAN,And I'm not throwing away my shot,My Shot,1
+LAURENS,ENSEMBLE,And I'm not throwing away my shot,My Shot,1
+LAFAYETTE,MULLIGAN,And I'm not throwing away my shot,My Shot,1
+LAFAYETTE,ENSEMBLE,And I'm not throwing away my shot,My Shot,1
+MULLIGAN,ENSEMBLE,And I'm not throwing away my shot,My Shot,1
+HAMILTON,LAFAYETTE,Whoa! Whoa! Whoa!,My Shot,1
+HAMILTON,MULLIGAN,Whoa! Whoa! Whoa!,My Shot,1
+LAFAYETTE,MULLIGAN,Whoa! Whoa! Whoa!,My Shot,1
+HAMILTON,LAFAYETTE,Whoa!,My Shot,1
+HAMILTON,MULLIGAN,Whoa!,My Shot,1
+LAFAYETTE,MULLIGAN,Whoa!,My Shot,1
+HAMILTON,LAFAYETTE,Whoa!,My Shot,1
+HAMILTON,MULLIGAN,Whoa!,My Shot,1
+LAFAYETTE,MULLIGAN,Whoa!,My Shot,1
+HAMILTON,LAFAYETTE,Yea!,My Shot,1
+HAMILTON,MULLIGAN,Yea!,My Shot,1
+LAFAYETTE,MULLIGAN,Yea!,My Shot,1
+HAMILTON,LAURENS,We're gonna rise up! Time to take a shot!,My Shot,1
+HAMILTON,LAFAYETTE,We're gonna rise up! Time to take a shot!,My Shot,1
+HAMILTON,MULLIGAN,We're gonna rise up! Time to take a shot!,My Shot,1
+LAURENS,LAFAYETTE,We're gonna rise up! Time to take a shot!,My Shot,1
+LAURENS,MULLIGAN,We're gonna rise up! Time to take a shot!,My Shot,1
+LAFAYETTE,MULLIGAN,We're gonna rise up! Time to take a shot!,My Shot,1
+HAMILTON,LAURENS,We're gonna rise up! Time to take a shot!,My Shot,1
+HAMILTON,LAFAYETTE,We're gonna rise up! Time to take a shot!,My Shot,1
+HAMILTON,MULLIGAN,We're gonna rise up! Time to take a shot!,My Shot,1
+LAURENS,LAFAYETTE,We're gonna rise up! Time to take a shot!,My Shot,1
+LAURENS,MULLIGAN,We're gonna rise up! Time to take a shot!,My Shot,1
+LAFAYETTE,MULLIGAN,We're gonna rise up! Time to take a shot!,My Shot,1
+HAMILTON,LAURENS,We're gonna,My Shot,1
+HAMILTON,LAFAYETTE,We're gonna,My Shot,1
+HAMILTON,MULLIGAN,We're gonna,My Shot,1
+LAURENS,LAFAYETTE,We're gonna,My Shot,1
+LAURENS,MULLIGAN,We're gonna,My Shot,1
+LAFAYETTE,MULLIGAN,We're gonna,My Shot,1
+HAMILTON,LAFAYETTE,Time to take a shot!,My Shot,1
+HAMILTON,LAURENS,Time to take a shot!,My Shot,1
+HAMILTON,MULLIGAN,Time to take a shot!,My Shot,1
+LAFAYETTE,LAURENS,Time to take a shot!,My Shot,1
+LAFAYETTE,MULLIGAN,Time to take a shot!,My Shot,1
+LAURENS,MULLIGAN,Time to take a shot!,My Shot,1
+HAMILTON,LAFAYETTE,Time to take a shot!,My Shot,1
+HAMILTON,LAURENS,Time to take a shot!,My Shot,1
+HAMILTON,MULLIGAN,Time to take a shot!,My Shot,1
+LAFAYETTE,LAURENS,Time to take a shot!,My Shot,1
+LAFAYETTE,MULLIGAN,Time to take a shot!,My Shot,1
+LAURENS,MULLIGAN,Time to take a shot!,My Shot,1
+HAMILTON,LAFAYETTE,Take a shot!,My Shot,1
+HAMILTON,LAURENS,Take a shot!,My Shot,1
+HAMILTON,MULLIGAN,Take a shot!,My Shot,1
+LAFAYETTE,LAURENS,Take a shot!,My Shot,1
+LAFAYETTE,MULLIGAN,Take a shot!,My Shot,1
+LAURENS,MULLIGAN,Take a shot!,My Shot,1
+HAMILTON,LAFAYETTE,Shot!,My Shot,1
+HAMILTON,LAURENS,Shot!,My Shot,1
+HAMILTON,MULLIGAN,Shot!,My Shot,1
+LAFAYETTE,LAURENS,Shot!,My Shot,1
+LAFAYETTE,MULLIGAN,Shot!,My Shot,1
+LAURENS,MULLIGAN,Shot!,My Shot,1
+HAMILTON,LAFAYETTE,Shot!,My Shot,1
+HAMILTON,LAURENS,Shot!,My Shot,1
+HAMILTON,MULLIGAN,Shot!,My Shot,1
+LAFAYETTE,LAURENS,Shot!,My Shot,1
+LAFAYETTE,MULLIGAN,Shot!,My Shot,1
+LAURENS,MULLIGAN,Shot!,My Shot,1
+HAMILTON,LAFAYETTE,A-yo it's,My Shot,1
+HAMILTON,LAURENS,A-yo it's,My Shot,1
+HAMILTON,MULLIGAN,A-yo it's,My Shot,1
+LAFAYETTE,LAURENS,A-yo it's,My Shot,1
+LAFAYETTE,MULLIGAN,A-yo it's,My Shot,1
+LAURENS,MULLIGAN,A-yo it's,My Shot,1
+HAMILTON,LAFAYETTE,Time to take a shot!,My Shot,1
+HAMILTON,LAURENS,Time to take a shot!,My Shot,1
+HAMILTON,MULLIGAN,Time to take a shot!,My Shot,1
+LAFAYETTE,LAURENS,Time to take a shot!,My Shot,1
+LAFAYETTE,MULLIGAN,Time to take a shot!,My Shot,1
+LAURENS,MULLIGAN,Time to take a shot!,My Shot,1
+HAMILTON,LAFAYETTE,Time to take a shot!,My Shot,1
+HAMILTON,LAURENS,Time to take a shot!,My Shot,1
+HAMILTON,MULLIGAN,Time to take a shot!,My Shot,1
+LAFAYETTE,LAURENS,Time to take a shot!,My Shot,1
+LAFAYETTE,MULLIGAN,Time to take a shot!,My Shot,1
+LAURENS,MULLIGAN,Time to take a shot!,My Shot,1
+HAMILTON,LAFAYETTE,And I am-,My Shot,1
+HAMILTON,LAURENS,And I am-,My Shot,1
+HAMILTON,MULLIGAN,And I am-,My Shot,1
+LAFAYETTE,LAURENS,And I am-,My Shot,1
+LAFAYETTE,MULLIGAN,And I am-,My Shot,1
+LAURENS,MULLIGAN,And I am-,My Shot,1
+HAMILTON,LAFAYETTE,Not throwin' away my-,My Shot,1
+HAMILTON,MULLIGAN,Not throwin' away my-,My Shot,1
+HAMILTON,LAURENS,Not throwin' away my-,My Shot,1
+LAFAYETTE,MULLIGAN,Not throwin' away my-,My Shot,1
+LAFAYETTE,LAURENS,Not throwin' away my-,My Shot,1
+MULLIGAN,LAURENS,Not throwin' away my-,My Shot,1
+LAFAYETTE,MULLIGAN,I may not live to see our glory!,The Story of Tonight,1
+LAFAYETTE,LAURENS,I may not live to see our glory!,The Story of Tonight,1
+MULLIGAN,LAURENS,I may not live to see our glory!,The Story of Tonight,1
+LAFAYETTE,MULLIGAN,But I will gladly join the fight!,The Story of Tonight,1
+LAFAYETTE,LAURENS,But I will gladly join the fight!,The Story of Tonight,1
+MULLIGAN,LAURENS,But I will gladly join the fight!,The Story of Tonight,1
+LAFAYETTE,MULLIGAN,And when our children tell our story...,The Story of Tonight,1
+LAFAYETTE,LAURENS,And when our children tell our story...,The Story of Tonight,1
+MULLIGAN,LAURENS,And when our children tell our story...,The Story of Tonight,1
+LAURENS,MULLIGAN,Tomorrow there'll be more of us,The Story of Tonight,1
+MULLIGAN,LAFAYETTE,Telling the story of tonight,The Story of Tonight,1
+MULLIGAN,LAURENS,Telling the story of tonight,The Story of Tonight,1
+LAFAYETTE,LAURENS,Telling the story of tonight,The Story of Tonight,1
+LAURENS,MULLIGAN,Raise a glass to freedom,The Story of Tonight,1
+LAURENS,LAFAYETTE,Raise a glass to freedom,The Story of Tonight,1
+MULLIGAN,LAFAYETTE,Raise a glass to freedom,The Story of Tonight,1
+LAURENS,MULLIGAN,Something they can never take away,The Story of Tonight,1
+LAURENS,LAFAYETTE,Something they can never take away,The Story of Tonight,1
+MULLIGAN,LAFAYETTE,Something they can never take away,The Story of Tonight,1
+MULLIGAN,LAFAYETTE,Let's have another round tonight,The Story of Tonight,1
+HAMILTON,LAURENS,Tomorrow there'll be more of us,The Story of Tonight,1
+HAMILTON,MULLIGAN,Tomorrow there'll be more of us,The Story of Tonight,1
+HAMILTON,LAFAYETTE,Tomorrow there'll be more of us,The Story of Tonight,1
+LAURENS,MULLIGAN,Tomorrow there'll be more of us,The Story of Tonight,1
+LAURENS,LAFAYETTE,Tomorrow there'll be more of us,The Story of Tonight,1
+MULLIGAN,LAFAYETTE,Tomorrow there'll be more of us,The Story of Tonight,1
+HAMILTON,LAURENS,Telling the story of tonight,The Story of Tonight,1
+MULLIGAN,LAFAYETTE,Let's have another round tonight,The Story of Tonight,1
+HAMILTON,LAURENS,They'll tell the story of tonight,The Story of Tonight,1
+HAMILTON,ENSEMBLE,They'll tell the story of tonight,The Story of Tonight,1
+LAURENS,ENSEMBLE,They'll tell the story of tonight,The Story of Tonight,1
+HAMILTON,LAURENS,They'll tell the story of tonight,The Story of Tonight,1
+HAMILTON,ENSEMBLE,They'll tell the story of tonight,The Story of Tonight,1
+LAURENS,ENSEMBLE,They'll tell the story of tonight,The Story of Tonight,1
+HAMILTON,LAURENS,They'll tell the story of tonight,The Story of Tonight,1
+HAMILTON,ENSEMBLE,They'll tell the story of tonight,The Story of Tonight,1
+LAURENS,ENSEMBLE,They'll tell the story of tonight,The Story of Tonight,1
+MULLIGAN,LAFAYETTE,Raise a glass to freedom,The Story of Tonight,1
+MULLIGAN,ENSEMBLE,Raise a glass to freedom,The Story of Tonight,1
+LAFAYETTE,ENSEMBLE,Raise a glass to freedom,The Story of Tonight,1
+MULLIGAN,LAFAYETTE,Raise a glass to freedom,The Story of Tonight,1
+MULLIGAN,ENSEMBLE,Raise a glass to freedom,The Story of Tonight,1
+LAFAYETTE,ENSEMBLE,Raise a glass to freedom,The Story of Tonight,1
+MULLIGAN,LAFAYETTE,They'll tell the story of-,The Story of Tonight,1
+MULLIGAN,ENSEMBLE,They'll tell the story of-,The Story of Tonight,1
+LAFAYETTE,ENSEMBLE,They'll tell the story of-,The Story of Tonight,1
+ELIZA,PEGGY,New York,The Schuyler Sisters,1
+ANGELICA,ELIZA,Work!,The Schuyler Sisters,1
+ANGELICA,PEGGY,Work!,The Schuyler Sisters,1
+ANGELICA,COMPANY,Work!,The Schuyler Sisters,1
+ELIZA,PEGGY,Work!,The Schuyler Sisters,1
+ELIZA,COMPANY,Work!,The Schuyler Sisters,1
+PEGGY,COMPANY,Work!,The Schuyler Sisters,1
+ELIZA,ANGELICA,Whooaaaaa!,The Schuyler Sisters,1
+ELIZA,PEGGY,Whooaaaaa!,The Schuyler Sisters,1
+ANGELICA,PEGGY,Whooaaaaa!,The Schuyler Sisters,1
+ELIZA,ANGELICA,"""Work!","""",The Schuyler Sisters,1
+ELIZA,PEGGY,"""Work!","""",The Schuyler Sisters,1
+ANGELICA,PEGGY,"""Work!","""",The Schuyler Sisters,1
+ELIZA,ANGELICA,"""""""We hold these truths to be self-evident""",The Schuyler Sisters,1
+ELIZA,PEGGY,"""""""We hold these truths to be self-evident""",The Schuyler Sisters,1
+ANGELICA,PEGGY,"""""""We hold these truths to be self-evident""",The Schuyler Sisters,1
+ELIZA,ANGELICA,"""That all men are created equal""""""",The Schuyler Sisters,1
+ELIZA,PEGGY,"""That all men are created equal""""""",The Schuyler Sisters,1
+ANGELICA,PEGGY,"""That all men are created equal""""""",The Schuyler Sisters,1
+ELIZA,PEGGY,"Look around, look around at how",The Schuyler Sisters,1
+ELIZA,PEGGY,Lucky we are to be alive right now!,The Schuyler Sisters,1
+ELIZA,ANGELICA,History is happening in Manhattan and we just happen to be,The Schuyler Sisters,1
+ELIZA,PEGGY,History is happening in Manhattan and we just happen to be,The Schuyler Sisters,1
+ANGELICA,PEGGY,History is happening in Manhattan and we just happen to be,The Schuyler Sisters,1
+ELIZA,ANGELICA,In the greatest city in the world!,The Schuyler Sisters,1
+ELIZA,PEGGY,In the greatest city in the world!,The Schuyler Sisters,1
+ANGELICA,PEGGY,In the greatest city in the world!,The Schuyler Sisters,1
+ANGELICA,ELIZA,In the greatest city in the world!,The Schuyler Sisters,1
+ANGELICA,PEGGY,In the greatest city in the world!,The Schuyler Sisters,1
+ANGELICA,COMPANY,In the greatest city in the world!,The Schuyler Sisters,1
+ELIZA,PEGGY,In the greatest city in the world!,The Schuyler Sisters,1
+ELIZA,COMPANY,In the greatest city in the world!,The Schuyler Sisters,1
+PEGGY,COMPANY,In the greatest city in the world!,The Schuyler Sisters,1
+ANGELICA,ELIZA,We hold these truths to be self evident that all men are created equal,The Schuyler Sisters,1
+ANGELICA,PEGGY,We hold these truths to be self evident that all men are created equal,The Schuyler Sisters,1
+ELIZA,PEGGY,We hold these truths to be self evident that all men are created equal,The Schuyler Sisters,1
+ANGELICA,ELIZA,"""Whoo!","""",The Schuyler Sisters,1
+ANGELICA,PEGGY,"""Whoo!","""",The Schuyler Sisters,1
+ELIZA,PEGGY,"""Whoo!","""",The Schuyler Sisters,1
+ELIZA,PEGGY,"Look around, look around",The Schuyler Sisters,1
+ELIZA,PEGGY,The revolution's happening in-,The Schuyler Sisters,1
+ELIZA,PEGGY,New York!,The Schuyler Sisters,1
+ELIZA,PEGGY,In New York!,The Schuyler Sisters,1
+ANGELICA,ELIZA,The Schuyler sisters!,The Schuyler Sisters,1
+ANGELICA,PEGGY,The Schuyler sisters!,The Schuyler Sisters,1
+ELIZA,PEGGY,The Schuyler sisters!,The Schuyler Sisters,1
+ANGELICA,ELIZA,We're looking for a mind at work!,The Schuyler Sisters,1
+ANGELICA,PEGGY,We're looking for a mind at work!,The Schuyler Sisters,1
+ELIZA,PEGGY,We're looking for a mind at work!,The Schuyler Sisters,1
+ANGELICA,ELIZA,Hey!,The Schuyler Sisters,1
+ANGELICA,PEGGY,Hey!,The Schuyler Sisters,1
+ELIZA,PEGGY,Hey!,The Schuyler Sisters,1
+ANGELICA,ELIZA,Hey!,The Schuyler Sisters,1
+ANGELICA,PEGGY,Hey!,The Schuyler Sisters,1
+ELIZA,PEGGY,Hey!,The Schuyler Sisters,1
+ELIZA,PEGGY,Hey! Hey! Hey! Hey! Hey!,The Schuyler Sisters,1
+ELIZA,PEGGY,In the greatest,The Schuyler Sisters,1
+ELIZA,PEGGY,City in the world,The Schuyler Sisters,1
+SEABURY,HAMILTON,Scream-,Farmer Refuted,1
+HAMILTON,BURR,Rise up!,Right Hand Man,1
+HAMILTON,MULLIGAN,Rise up!,Right Hand Man,1
+HAMILTON,LAURENS,Rise up!,Right Hand Man,1
+HAMILTON,LAFAYETTE,Rise up!,Right Hand Man,1
+BURR,MULLIGAN,Rise up!,Right Hand Man,1
+BURR,LAURENS,Rise up!,Right Hand Man,1
+BURR,LAFAYETTE,Rise up!,Right Hand Man,1
+MULLIGAN,LAURENS,Rise up!,Right Hand Man,1
+MULLIGAN,LAFAYETTE,Rise up!,Right Hand Man,1
+LAURENS,LAFAYETTE,Rise up!,Right Hand Man,1
+HAMILTON,BURR,Rise up!,Right Hand Man,1
+HAMILTON,MULLIGAN,Rise up!,Right Hand Man,1
+HAMILTON,LAURENS,Rise up!,Right Hand Man,1
+HAMILTON,LAFAYETTE,Rise up!,Right Hand Man,1
+BURR,MULLIGAN,Rise up!,Right Hand Man,1
+BURR,LAURENS,Rise up!,Right Hand Man,1
+BURR,LAFAYETTE,Rise up!,Right Hand Man,1
+MULLIGAN,LAURENS,Rise up!,Right Hand Man,1
+MULLIGAN,LAFAYETTE,Rise up!,Right Hand Man,1
+LAURENS,LAFAYETTE,Rise up!,Right Hand Man,1
+HAMILTON,BURR,Rise up!,Right Hand Man,1
+HAMILTON,MULLIGAN,Rise up!,Right Hand Man,1
+HAMILTON,LAURENS,Rise up!,Right Hand Man,1
+HAMILTON,LAFAYETTE,Rise up!,Right Hand Man,1
+BURR,MULLIGAN,Rise up!,Right Hand Man,1
+BURR,LAURENS,Rise up!,Right Hand Man,1
+BURR,LAFAYETTE,Rise up!,Right Hand Man,1
+MULLIGAN,LAURENS,Rise up!,Right Hand Man,1
+MULLIGAN,LAFAYETTE,Rise up!,Right Hand Man,1
+LAURENS,LAFAYETTE,Rise up!,Right Hand Man,1
+HAMILTON,BURR,Rise up! Rise up!,Right Hand Man,1
+HAMILTON,MULLIGAN,Rise up! Rise up!,Right Hand Man,1
+HAMILTON,LAURENS,Rise up! Rise up!,Right Hand Man,1
+HAMILTON,LAFAYETTE,Rise up! Rise up!,Right Hand Man,1
+BURR,MULLIGAN,Rise up! Rise up!,Right Hand Man,1
+BURR,LAURENS,Rise up! Rise up!,Right Hand Man,1
+BURR,LAFAYETTE,Rise up! Rise up!,Right Hand Man,1
+MULLIGAN,LAURENS,Rise up! Rise up!,Right Hand Man,1
+MULLIGAN,LAFAYETTE,Rise up! Rise up!,Right Hand Man,1
+LAURENS,LAFAYETTE,Rise up! Rise up!,Right Hand Man,1
+BURR,HAMILTON,We keep meeting,Right Hand Man,1
+ANGELICA,ELIZA,"""Rise up!","""",Right Hand Man,1
+ANGELICA,PEGGY,"""Rise up!","""",Right Hand Man,1
+ANGELICA,WOMEN,"""Rise up!","""",Right Hand Man,1
+ELIZA,PEGGY,"""Rise up!","""",Right Hand Man,1
+ELIZA,WOMEN,"""Rise up!","""",Right Hand Man,1
+PEGGY,WOMEN,"""Rise up!","""",Right Hand Man,1
+ELIZA,ANGELICA,"Whoa, whoa, whoa...",Right Hand Man,1
+ELIZA,PEGGY,"Whoa, whoa, whoa...",Right Hand Man,1
+ANGELICA,PEGGY,"Whoa, whoa, whoa...",Right Hand Man,1
+ELIZA,ANGELICA,"Whoa, whoa, whoa...",Right Hand Man,1
+ELIZA,PEGGY,"Whoa, whoa, whoa...",Right Hand Man,1
+ANGELICA,PEGGY,"Whoa, whoa, whoa...",Right Hand Man,1
+ELIZA,ANGELICA,"Whoa, whoa, whoa...",Right Hand Man,1
+ELIZA,PEGGY,"Whoa, whoa, whoa...",Right Hand Man,1
+ELIZA,WOMEN,"Whoa, whoa, whoa...",Right Hand Man,1
+ANGELICA,PEGGY,"Whoa, whoa, whoa...",Right Hand Man,1
+ANGELICA,WOMEN,"Whoa, whoa, whoa...",Right Hand Man,1
+PEGGY,WOMEN,"Whoa, whoa, whoa...",Right Hand Man,1
+LAURENS,LAFAYETTE,What?,Right Hand Man,1
+LAURENS,MULLIGAN,What?,Right Hand Man,1
+LAFAYETTE,MULLIGAN,What?,Right Hand Man,1
+LAURENS,LAFAYETTE,What?,Right Hand Man,1
+LAURENS,MULLIGAN,What?,Right Hand Man,1
+LAFAYETTE,MULLIGAN,What?,Right Hand Man,1
+LAURENS,LAFAYETTE,What?,Right Hand Man,1
+LAURENS,MULLIGAN,What?,Right Hand Man,1
+LAFAYETTE,MULLIGAN,What?,Right Hand Man,1
+HAMILTON,BURR,Hey hey hey hey,A Winters Ball,1
+HAMILTON,LAURENS,Hey hey hey hey,A Winters Ball,1
+HAMILTON,WOMEN,Hey hey hey hey,A Winters Ball,1
+BURR,LAURENS,Hey hey hey hey,A Winters Ball,1
+BURR,WOMEN,Hey hey hey hey,A Winters Ball,1
+LAURENS,WOMEN,Hey hey hey hey,A Winters Ball,1
+HAMILTON,MEN,Always-,Satisfied,1
+HAMILTON,MEN,Rewind-,Satisfied,1
+HAMILTON,MEN,Always-,Satisfied,1
+HAMILTON,MEN,Be satisfied,Satisfied,1
+HAMILTON,MEN,Be satisfied,Satisfied,1
+MULLIGAN,LAFAYETTE,I may not live to see our glory!,"Story of Tonight, Reprise",1
+MULLIGAN,LAFAYETTE,I've seen wonders great and small,"Story of Tonight, Reprise",1
+MULLIGAN,LAFAYETTE,If Alexander can get married-,"Story of Tonight, Reprise",1
+LAURENS,MULLIGAN,Hey!,"Story of Tonight, Reprise",1
+LAURENS,MULLIGAN,Something you will never see again!,"Story of Tonight, Reprise",1
+LAFAYETTE,HAMILTON,Ho!,"Story of Tonight, Reprise",1
+LAURENS,LAFAYETTE,Woo!,"Story of Tonight, Reprise",1
+LAURENS,HAMILTON,Woo!,"Story of Tonight, Reprise",1
+LAFAYETTE,HAMILTON,Woo!,"Story of Tonight, Reprise",1
+MULLIGAN,LAFAYETTE,Burr!,"Story of Tonight, Reprise",1
+ELIZA,ANGELICA,Stay alive...,Stay Alive,1
+ELIZA,WOMEN,Stay alive...,Stay Alive,1
+ANGELICA,WOMEN,Stay alive...,Stay Alive,1
+HAMILTON,LAURENS,Raise a glass!,Stay Alive,1
+HAMILTON,LAFAYETTE,Raise a glass!,Stay Alive,1
+LAURENS,LAFAYETTE,Raise a glass!,Stay Alive,1
+ELIZA,ANGELICA,Stay alive...,Stay Alive,1
+HAMILTON,LAURENS,He shits the bed at the Battle of Monmouth,Stay Alive,1
+HAMILTON,LAFAYETTE,He shits the bed at the Battle of Monmouth,Stay Alive,1
+LAURENS,LAFAYETTE,He shits the bed at the Battle of Monmouth,Stay Alive,1
+BURR,HAMILTON,It's the Ten Duel Commandments,Ten Duel Commandments,1
+BURR,LAURENS,It's the Ten Duel Commandments,Ten Duel Commandments,1
+BURR,LEE,It's the Ten Duel Commandments,Ten Duel Commandments,1
+HAMILTON,LAURENS,It's the Ten Duel Commandments,Ten Duel Commandments,1
+HAMILTON,LEE,It's the Ten Duel Commandments,Ten Duel Commandments,1
+LAURENS,LEE,It's the Ten Duel Commandments,Ten Duel Commandments,1
+LAURENS,LEE,Your last chance to negotiate,Ten Duel Commandments,1
+LAURENS,HAMILTON,Your last chance to negotiate,Ten Duel Commandments,1
+LAURENS,BURR,Your last chance to negotiate,Ten Duel Commandments,1
+LEE,HAMILTON,Your last chance to negotiate,Ten Duel Commandments,1
+LEE,BURR,Your last chance to negotiate,Ten Duel Commandments,1
+HAMILTON,BURR,Your last chance to negotiate,Ten Duel Commandments,1
+LAURENS,LEE,"Send in your seconds, see if they can set the record straight...",Ten Duel Commandments,1
+LAURENS,HAMILTON,"Send in your seconds, see if they can set the record straight...",Ten Duel Commandments,1
+LAURENS,BURR,"Send in your seconds, see if they can set the record straight...",Ten Duel Commandments,1
+LEE,HAMILTON,"Send in your seconds, see if they can set the record straight...",Ten Duel Commandments,1
+LEE,BURR,"Send in your seconds, see if they can set the record straight...",Ten Duel Commandments,1
+HAMILTON,BURR,"Send in your seconds, see if they can set the record straight...",Ten Duel Commandments,1
+HAMILTON,BURR,Number,Ten Duel Commandments,1
+HAMILTON,BURR,Fire!,Ten Duel Commandments,1
+HAMILTON,WASHINGTON,"""History has its eyes on me.","""",Guns and Ships,1
+LAURENS,MULLIGAN,Whoa...,History has its eyes on you,1
+LAURENS,MULLIGAN,Whoa...,History has its eyes on you,1
+LAURENS,MULLIGAN,Whoa...,History has its eyes on you,1
+LAURENS,MULLIGAN,Yeah,History has its eyes on you,1
+WASHINGTON,HAMILTON,History has its,History has its eyes on you,1
+WASHINGTON,MEN,History has its,History has its eyes on you,1
+HAMILTON,MEN,History has its,History has its eyes on you,1
+WASHINGTON,HAMILTON,Eyes on you.,History has its eyes on you,1
+WASHINGTON,MEN,Eyes on you.,History has its eyes on you,1
+HAMILTON,MEN,Eyes on you.,History has its eyes on you,1
+HAMILTON,LAFAYETTE,We get the job done,Yorktown,1
+HAMILTON,LAURENS,We'll never be free until we end slavery!,Yorktown,1
+HAMILTON,LAFAYETTE,In Chesapeake Bay!,Yorktown,1
+MULLIGAN,LAFAYETTE,We won!,Yorktown,1
+MULLIGAN,LAURENS,We won!,Yorktown,1
+LAFAYETTE,LAURENS,We won!,Yorktown,1
+MULLIGAN,LAFAYETTE,We won!,Yorktown,1
+MULLIGAN,LAURENS,We won!,Yorktown,1
+MULLIGAN,HAMILTON,We won!,Yorktown,1
+MULLIGAN,WASHINGTON,We won!,Yorktown,1
+LAFAYETTE,LAURENS,We won!,Yorktown,1
+LAFAYETTE,HAMILTON,We won!,Yorktown,1
+LAFAYETTE,WASHINGTON,We won!,Yorktown,1
+LAURENS,HAMILTON,We won!,Yorktown,1
+LAURENS,WASHINGTON,We won!,Yorktown,1
+HAMILTON,WASHINGTON,We won!,Yorktown,1
+BURR,HAMILTON,I'll make the world safe and sound for you...,Dear Theodosia,1
+BURR,HAMILTON,...will come of age with our young nation,Dear Theodosia,1
+BURR,HAMILTON,"We'll bleed and fight for you, we'll make it right for you",Dear Theodosia,1
+BURR,HAMILTON,If we lay a strong enough foundation,Dear Theodosia,1
+BURR,HAMILTON,"We'll pass it on to you, we'll give the world to you",Dear Theodosia,1
+BURR,HAMILTON,And you'll blow us all away...,Dear Theodosia,1
+BURR,HAMILTON,"Someday, someday",Dear Theodosia,1
+BURR,HAMILTON,"Yeah, you'll blow us all away",Dear Theodosia,1
+BURR,HAMILTON,"Someday, someday",Dear Theodosia,1
+BURR,MEN,Why do you write like it's,Non-Stop,1
+BURR,MEN,Going out of style?,Non-Stop,1
+BURR,MEN,Write day and night like it's,Non-Stop,1
+BURR,MEN,Going out of style?,Non-Stop,1
+BURR,MEN,Ev'ry day you fight like you're,Non-Stop,1
+BURR,MEN,Running out of time like you're,Non-Stop,1
+BURR,MEN,Running out of time,Non-Stop,1
+BURR,MEN,Are you running out of time?,Non-Stop,1
+WASHINGTON,MULLIGAN,History has its eyes...,Non-Stop,1
+WASHINGTON,LAURENS,History has its eyes...,Non-Stop,1
+WASHINGTON,LAFAYETTE,History has its eyes...,Non-Stop,1
+MULLIGAN,LAURENS,History has its eyes...,Non-Stop,1
+MULLIGAN,LAFAYETTE,History has its eyes...,Non-Stop,1
+LAURENS,LAFAYETTE,History has its eyes...,Non-Stop,1
+WASHINGTON,MULLIGAN,On...,Non-Stop,1
+WASHINGTON,LAURENS,On...,Non-Stop,1
+WASHINGTON,LAFAYETTE,On...,Non-Stop,1
+MULLIGAN,LAURENS,On...,Non-Stop,1
+MULLIGAN,LAFAYETTE,On...,Non-Stop,1
+LAURENS,LAFAYETTE,On...,Non-Stop,1
+WASHINGTON,MULLIGAN,You...,Non-Stop,1
+WASHINGTON,LAURENS,You...,Non-Stop,1
+WASHINGTON,LAFAYETTE,You...,Non-Stop,1
+MULLIGAN,LAURENS,You...,Non-Stop,1
+MULLIGAN,LAFAYETTE,You...,Non-Stop,1
+LAURENS,LAFAYETTE,You...,Non-Stop,1
+JEFFERSON,MADISON,Oww,Cabinet Battle,2
+JEFFERSON,MADISON,You don't have the votes,Cabinet Battle,2
+JEFFERSON,MADISON,You're gonna need congressional approval and you don't have the votes,Cabinet Battle,2
+ELIZA,PHILIP,One two three four five six seven eight nine!,Take a Break,2
+HAMILTON,ANGELICA,"And there you are, an ocean away",Take a Break,2
+HAMILTON,ANGELICA,Do you have to live an ocean away?,Take a Break,2
+HAMILTON,ANGELICA,Thoughts of you subside,Take a Break,2
+HAMILTON,ANGELICA,Then I get another letter,Take a Break,2
+HAMILTON,ANGELICA,I cannot put the notion away...,Take a Break,2
+HAMILTON,ANGELICA,"""""""My dearest Angelica""""""",Take a Break,2
+HAMILTON,ANGELICA,"""""""My dearest, Angelica.""""""",Take a Break,2
+HAMILTON,ANGELICA,You won't be an ocean away,Take a Break,2
+HAMILTON,ANGELICA,You will only be a moment away...,Take a Break,2
+ELIZA,ANGELICA,Take a break,Take a Break,2
+ELIZA,ANGELICA,Run away with us for the summer,Take a Break,2
+ELIZA,ANGELICA,Let's go upstate,Take a Break,2
+ELIZA,ANGELICA,We can all go stay with our father,Take a Break,2
+HAMILTON,JEFFERSON,"What do you want, Burr?",The Room Where it Happens,2
+HAMILTON,MADISON,"What do you want, Burr?",The Room Where it Happens,2
+HAMILTON,WASHINGTON,"What do you want, Burr?",The Room Where it Happens,2
+JEFFERSON,MADISON,"What do you want, Burr?",The Room Where it Happens,2
+JEFFERSON,WASHINGTON,"What do you want, Burr?",The Room Where it Happens,2
+MADISON,WASHINGTON,"What do you want, Burr?",The Room Where it Happens,2
+HAMILTON,JEFFERSON,"What do you want, Burr?",The Room Where it Happens,2
+HAMILTON,MADISON,"What do you want, Burr?",The Room Where it Happens,2
+HAMILTON,WASHINGTON,"What do you want, Burr?",The Room Where it Happens,2
+JEFFERSON,MADISON,"What do you want, Burr?",The Room Where it Happens,2
+JEFFERSON,WASHINGTON,"What do you want, Burr?",The Room Where it Happens,2
+MADISON,WASHINGTON,"What do you want, Burr?",The Room Where it Happens,2
+HAMILTON,JEFFERSON,If you stand for nothing,The Room Where it Happens,2
+HAMILTON,MADISON,If you stand for nothing,The Room Where it Happens,2
+HAMILTON,WASHINGTON,If you stand for nothing,The Room Where it Happens,2
+JEFFERSON,MADISON,If you stand for nothing,The Room Where it Happens,2
+JEFFERSON,WASHINGTON,If you stand for nothing,The Room Where it Happens,2
+MADISON,WASHINGTON,If you stand for nothing,The Room Where it Happens,2
+HAMILTON,JEFFERSON,"Burr, then what do you fall for?",The Room Where it Happens,2
+HAMILTON,MADISON,"Burr, then what do you fall for?",The Room Where it Happens,2
+HAMILTON,WASHINGTON,"Burr, then what do you fall for?",The Room Where it Happens,2
+JEFFERSON,MADISON,"Burr, then what do you fall for?",The Room Where it Happens,2
+JEFFERSON,WASHINGTON,"Burr, then what do you fall for?",The Room Where it Happens,2
+MADISON,WASHINGTON,"Burr, then what do you fall for?",The Room Where it Happens,2
+PHILIP,ELIZA,Further down,Schuyler Defeated,2
+PHILIP,ELIZA,Our senator,Schuyler Defeated,2
+JEFFERSON,BURR,"It must be nice, it must be nice to have",Washington on your side,2
+JEFFERSON,BURR,Washington on your side,Washington on your side,2
+JEFFERSON,BURR,"It must be nice, it must be nice to have",Washington on your side,2
+JEFFERSON,BURR,Washington on your side,Washington on your side,2
+JEFFERSON,BURR,Look back at the Bill of Rights,Washington on your side,2
+JEFFERSON,MADISON,The ink hasn't dried,Washington on your side,2
+JEFFERSON,BURR,The ink hasn't dried,Washington on your side,2
+MADISON,BURR,The ink hasn't dried,Washington on your side,2
+JEFFERSON,MADISON,"It must be nice, it must be nice to have",Washington on your side,2
+JEFFERSON,BURR,"It must be nice, it must be nice to have",Washington on your side,2
+MADISON,BURR,"It must be nice, it must be nice to have",Washington on your side,2
+JEFFERSON,MADISON,Washington on your side,Washington on your side,2
+JEFFERSON,BURR,Washington on your side,Washington on your side,2
+MADISON,BURR,Washington on your side,Washington on your side,2
+JEFFERSON,MADISON,You can't put it out from inside the house,Washington on your side,2
+MADISON,BURR,Oh!,Washington on your side,2
+MADISON,JEFFERSON,Oh!,Washington on your side,2
+BURR,JEFFERSON,Oh!,Washington on your side,2
+MADISON,BURR,This immigrant isn't somebody we chose,Washington on your side,2
+MADISON,JEFFERSON,This immigrant isn't somebody we chose,Washington on your side,2
+BURR,JEFFERSON,This immigrant isn't somebody we chose,Washington on your side,2
+MADISON,BURR,Oh!,Washington on your side,2
+MADISON,JEFFERSON,Oh!,Washington on your side,2
+BURR,JEFFERSON,Oh!,Washington on your side,2
+MADISON,BURR,This immigrant's keeping us all on our toes,Washington on your side,2
+MADISON,JEFFERSON,This immigrant's keeping us all on our toes,Washington on your side,2
+BURR,JEFFERSON,This immigrant's keeping us all on our toes,Washington on your side,2
+MADISON,BURR,Oh!,Washington on your side,2
+MADISON,JEFFERSON,Oh!,Washington on your side,2
+BURR,JEFFERSON,Oh!,Washington on your side,2
+MADISON,BURR,Let's show these Federalists who they're up against!,Washington on your side,2
+MADISON,JEFFERSON,Let's show these Federalists who they're up against!,Washington on your side,2
+BURR,JEFFERSON,Let's show these Federalists who they're up against!,Washington on your side,2
+MADISON,BURR,Oh!,Washington on your side,2
+MADISON,JEFFERSON,Oh!,Washington on your side,2
+BURR,JEFFERSON,Oh!,Washington on your side,2
+JEFFERSON,MADISON,Southern motherfuckin'-,Washington on your side,2
+JEFFERSON,MADISON,Democratic-Republicans!,Washington on your side,2
+JEFFERSON,BURR,Democratic-Republicans!,Washington on your side,2
+MADISON,BURR,Democratic-Republicans!,Washington on your side,2
+JEFFERSON,MADISON,Oh!,Washington on your side,2
+JEFFERSON,BURR,Oh!,Washington on your side,2
+JEFFERSON,ENSEMBLE,Oh!,Washington on your side,2
+MADISON,BURR,Oh!,Washington on your side,2
+MADISON,ENSEMBLE,Oh!,Washington on your side,2
+BURR,ENSEMBLE,Oh!,Washington on your side,2
+JEFFERSON,MADISON,Let's follow the money and see where it goes,Washington on your side,2
+JEFFERSON,BURR,Let's follow the money and see where it goes,Washington on your side,2
+MADISON,BURR,Let's follow the money and see where it goes,Washington on your side,2
+JEFFERSON,MADISON,Because every second the Treasury grows,Washington on your side,2
+JEFFERSON,BURR,Because every second the Treasury grows,Washington on your side,2
+MADISON,BURR,Because every second the Treasury grows,Washington on your side,2
+JEFFERSON,MADISON,If we follow the money and see where it leads,Washington on your side,2
+JEFFERSON,BURR,If we follow the money and see where it leads,Washington on your side,2
+MADISON,BURR,If we follow the money and see where it leads,Washington on your side,2
+JEFFERSON,MADISON,"Get in the weeds, look for the seeds of",Washington on your side,2
+JEFFERSON,BURR,"Get in the weeds, look for the seeds of",Washington on your side,2
+MADISON,BURR,"Get in the weeds, look for the seeds of",Washington on your side,2
+JEFFERSON,MADISON,Hamilton's misdeeds,Washington on your side,2
+JEFFERSON,BURR,Hamilton's misdeeds,Washington on your side,2
+MADISON,BURR,Hamilton's misdeeds,Washington on your side,2
+JEFFERSON,MADISON,It must be nice. It must be nice,Washington on your side,2
+JEFFERSON,BURR,It must be nice. It must be nice,Washington on your side,2
+MADISON,BURR,It must be nice. It must be nice,Washington on your side,2
+JEFFERSON,MADISON,It must be nice. It must be nice,Washington on your side,2
+JEFFERSON,BURR,It must be nice. It must be nice,Washington on your side,2
+MADISON,BURR,It must be nice. It must be nice,Washington on your side,2
+JEFFERSON,MADISON,We won't be invisible. We won't be denied,Washington on your side,2
+JEFFERSON,BURR,We won't be invisible. We won't be denied,Washington on your side,2
+MADISON,BURR,We won't be invisible. We won't be denied,Washington on your side,2
+JEFFERSON,MADISON,Still,Washington on your side,2
+JEFFERSON,BURR,Still,Washington on your side,2
+MADISON,BURR,Still,Washington on your side,2
+JEFFERSON,MADISON,"It must be nice, it must be nice to have",Washington on your side,2
+JEFFERSON,BURR,"It must be nice, it must be nice to have",Washington on your side,2
+MADISON,BURR,"It must be nice, it must be nice to have",Washington on your side,2
+JEFFERSON,MADISON,Washington on your side,Washington on your side,2
+JEFFERSON,BURR,Washington on your side,Washington on your side,2
+MADISON,BURR,Washington on your side,Washington on your side,2
+JEFFERSON,MADISON,"I can almost see the headline, your career is done",We Know,2
+BURR,JEFFERSON,Ya best g'wan run back where ya come from!,We Know,2
+BURR,MADISON,Ya best g'wan run back where ya come from!,We Know,2
+JEFFERSON,MADISON,Ya best g'wan run back where ya come from!,We Know,2
+JEFFERSON,MADISON,Confess,We Know,2
+JEFFERSON,BURR,Confess,We Know,2
+MADISON,BURR,Confess,We Know,2
+JEFFERSON,MADISON,Unless,We Know,2
+JEFFERSON,BURR,Unless,We Know,2
+MADISON,BURR,Unless,We Know,2
+JEFFERSON,MADISON,"Um, yes",We Know,2
+JEFFERSON,BURR,"Um, yes",We Know,2
+MADISON,BURR,"Um, yes",We Know,2
+JEFFERSON,MADISON,The people won't know what we know,We Know,2
+WASHINGTON,ELIZA,History has its eyes on you,Hurricane,2
+WASHINGTON,ANGELICA,History has its eyes on you,Hurricane,2
+WASHINGTON,MARIA,History has its eyes on you,Hurricane,2
+ELIZA,ANGELICA,History has its eyes on you,Hurricane,2
+ELIZA,MARIA,History has its eyes on you,Hurricane,2
+ANGELICA,MARIA,History has its eyes on you,Hurricane,2
+JEFFERSON,MADISON,Have you read this?,Reynolds Pamphlet,2
+JEFFERSON,ANGELICA,Have you read this?,Reynolds Pamphlet,2
+MADISON,ANGELICA,Have you read this?,Reynolds Pamphlet,2
+BURR,JEFFERSON,Alexander Hamilton had a torrid affair,Reynolds Pamphlet,2
+BURR,MADISON,Alexander Hamilton had a torrid affair,Reynolds Pamphlet,2
+JEFFERSON,MADISON,Alexander Hamilton had a torrid affair,Reynolds Pamphlet,2
+BURR,JEFFERSON,And he wrote it down right there,Reynolds Pamphlet,2
+BURR,MADISON,And he wrote it down right there,Reynolds Pamphlet,2
+JEFFERSON,MADISON,And he wrote it down right there,Reynolds Pamphlet,2
+HAMILTON,JEFFERSON,"""""""The charge against me""",Reynolds Pamphlet,2
+HAMILTON,JEFFERSON,Is a connection with one,Reynolds Pamphlet,2
+HAMILTON,JEFFERSON,James Reynolds!,Reynolds Pamphlet,2
+HAMILTON,JEFFERSON,For purposes of,Reynolds Pamphlet,2
+HAMILTON,JEFFERSON,Improper speculation,Reynolds Pamphlet,2
+HAMILTON,JEFFERSON,My real crime is an,Reynolds Pamphlet,2
+HAMILTON,JEFFERSON,Amorous connection with his wife,Reynolds Pamphlet,2
+HAMILTON,JEFFERSON,For a considerable time,Reynolds Pamphlet,2
+HAMILTON,JEFFERSON,With his knowing consent,Reynolds Pamphlet,2
+MADISON,BURR,Damn!,Reynolds Pamphlet,2
+MADISON,JEFFERSON,Damn!,Reynolds Pamphlet,2
+BURR,JEFFERSON,Damn!,Reynolds Pamphlet,2
+HAMILTON,JEFFERSON,"""""""I had frequent meetings with her""",Reynolds Pamphlet,2
+HAMILTON,MADISON,"""""""I had frequent meetings with her""",Reynolds Pamphlet,2
+JEFFERSON,MADISON,"""""""I had frequent meetings with her""",Reynolds Pamphlet,2
+HAMILTON,JEFFERSON,"""Most of them at my own house.""""""",Reynolds Pamphlet,2
+HAMILTON,MADISON,"""Most of them at my own house.""""""",Reynolds Pamphlet,2
+JEFFERSON,MADISON,"""Most of them at my own house.""""""",Reynolds Pamphlet,2
+HAMILTON,JEFFERSON,"""""""Mrs. Hamilton with our children being absent""",Reynolds Pamphlet,2
+HAMILTON,JEFFERSON,"""On a visit to her father.""""""",Reynolds Pamphlet,2
+MADISON,BURR,No...,Reynolds Pamphlet,2
+MADISON,BURR,Have you read this?,Reynolds Pamphlet,2
+MADISON,BURR,Never gon' be President now,Reynolds Pamphlet,2
+MADISON,BURR,Never gon' be President now,Reynolds Pamphlet,2
+MADISON,BURR,Never gon' be President now,Reynolds Pamphlet,2
+JEFFERSON,MADISON,That's one less thing to worry about!,Reynolds Pamphlet,2
+JEFFERSON,BURR,That's one less thing to worry about!,Reynolds Pamphlet,2
+MADISON,BURR,That's one less thing to worry about!,Reynolds Pamphlet,2
+JEFFERSON,MADISON,"Well, he's never gon' be President now",Reynolds Pamphlet,2
+JEFFERSON,BURR,"Well, he's never gon' be President now",Reynolds Pamphlet,2
+MADISON,BURR,"Well, he's never gon' be President now",Reynolds Pamphlet,2
+JEFFERSON,MADISON,"Well, he's never gon' be President now",Reynolds Pamphlet,2
+JEFFERSON,BURR,"Well, he's never gon' be President now",Reynolds Pamphlet,2
+MADISON,BURR,"Well, he's never gon' be President now",Reynolds Pamphlet,2
+JEFFERSON,MADISON,"Well, he's never gon' be President now",Reynolds Pamphlet,2
+JEFFERSON,BURR,"Well, he's never gon' be President now",Reynolds Pamphlet,2
+MADISON,BURR,"Well, he's never gon' be President now",Reynolds Pamphlet,2
+JEFFERSON,MADISON,That's one less thing to worry about.,Reynolds Pamphlet,2
+JEFFERSON,BURR,That's one less thing to worry about.,Reynolds Pamphlet,2
+MADISON,BURR,That's one less thing to worry about.,Reynolds Pamphlet,2
+JEFFERSON,MADISON,Hey!,Reynolds Pamphlet,2
+JEFFERSON,MADISON,At least he was honest with our money!,Reynolds Pamphlet,2
+JEFFERSON,MADISON,Hey!,Reynolds Pamphlet,2
+JEFFERSON,MADISON,At least he was honest with our money!,Reynolds Pamphlet,2
+JEFFERSON,MADISON,Have you read this?,Reynolds Pamphlet,2
+JEFFERSON,BURR,Have you read this?,Reynolds Pamphlet,2
+MADISON,BURR,Have you read this?,Reynolds Pamphlet,2
+JEFFERSON,MADISON,You ever see somebody ruin their own life?,Reynolds Pamphlet,2
+JEFFERSON,BURR,You ever see somebody ruin their own life?,Reynolds Pamphlet,2
+MADISON,BURR,You ever see somebody ruin their own life?,Reynolds Pamphlet,2
+HAMILTON,PHILIP,Everything is legal in New Jersey...,Blow Us All Away,2
+JEFFERSON,MADISON,Aaron Burr!,The Election of 1800,2
+JEFFERSON,MADISON,"It might be nice, it might be nice",The Election of 1800,2
+JEFFERSON,MADISON,To get Hamilton on your side,The Election of 1800,2
+JEFFERSON,MADISON,It's up to Hamilton!,The Election of 1800,2
+JEFFERSON,MADISON,Oh!,The Election of 1800,2
+JEFFERSON,ENSEMBLE,Oh!,The Election of 1800,2
+MADISON,ENSEMBLE,Oh!,The Election of 1800,2
+JEFFERSON,MADISON,Oh!,The Election of 1800,2
+JEFFERSON,ENSEMBLE,Oh!,The Election of 1800,2
+MADISON,ENSEMBLE,Oh!,The Election of 1800,2
+JEFFERSON,MADISON,Oh!,The Election of 1800,2
+JEFFERSON,ENSEMBLE,Oh!,The Election of 1800,2
+MADISON,ENSEMBLE,Oh!,The Election of 1800,2
+JEFFERSON,MADISON,"Well, I'll be damned",The Election of 1800,2
+JEFFERSON,MADISON,"Well, I'll be damned",The Election of 1800,2
+BURR,HAMILTON,I have the honor to be Your Obedient Servant,Your obedient servant,2
+BURR,PHILIP,Near the same spot,The World Was Wide Enough,2
+BURR,PHILIP,"Your son died, is that",The World Was Wide Enough,2
+BURR,PHILIP,"""Why-","""",The World Was Wide Enough,2
+BURR,HAMILTON,Your last chance to negotiate,The World Was Wide Enough,2
+BURR,MEN,Your last chance to negotiate,The World Was Wide Enough,2
+HAMILTON,MEN,Your last chance to negotiate,The World Was Wide Enough,2
+BURR,HAMILTON,"Send in your seconds, see if they can set the record straight",The World Was Wide Enough,2
+BURR,MEN,"Send in your seconds, see if they can set the record straight",The World Was Wide Enough,2
+HAMILTON,MEN,"Send in your seconds, see if they can set the record straight",The World Was Wide Enough,2
+BURR,ANGELICA,Angelica and Eliza-,The World Was Wide Enough,2
+BURR,MEN,Who tells your story?,Who Lives Who Dies Who Tells Your Story,2
+BURR,MEN,Who tells your story?,Who Lives Who Dies Who Tells Your Story,2
+MULLIGAN,LAFAYETTE,She tells our story,Who Lives Who Dies Who Tells Your Story,2
+MULLIGAN,LAURENS,She tells our story,Who Lives Who Dies Who Tells Your Story,2
+LAFAYETTE,LAURENS,She tells our story,Who Lives Who Dies Who Tells Your Story,2
+ELIZA,ANGELICA,Angelica,Who Lives Who Dies Who Tells Your Story,2
+ELIZA,ANGELICA,We tell your story,Who Lives Who Dies Who Tells Your Story,2
+ELIZA,ANGELICA,Near you,Who Lives Who Dies Who Tells Your Story,2
